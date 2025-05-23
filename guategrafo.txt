@@ -1,0 +1,10 @@
+Guatemala Quetzaltenango 4 5 6 10
+Guatemala Coban 3 4 5 9
+Guatemala Chiquimula 2 3 4 8
+Quetzaltenango Huehuetenango 2 3 4 7
+Coban Flores 6 7 9 15
+Flores PuertoBarrios 8 10 12 20
+Chiquimula Jutiapa 1 2 3 5
+Jutiapa Escuintla 2 3 4 6
+Escuintla Antigua 1 2 3 5
+Antigua Guatemala 1 2 2 4
